@@ -6,6 +6,13 @@
     margin: 0;
     box-sizing: border-box;
 }
+@media (min-width:425px){
+
+}
+@media (min-width:768px){
+
+}
+
 body{
     background: url( asset/bg-mobile.svg) no-repeat hsl(257, 40%, 49%);
     min-height: 100vh;
